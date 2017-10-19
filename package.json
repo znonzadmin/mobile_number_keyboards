@@ -1,17 +1,17 @@
 {
-  "name": "jk-keyboard",
-  "version": "0.7.1",
+  "name": "mobile_number_keyboard",
+  "version": "1.0.0",
   "description": "HTML Numeric Keyboard For Mobile",
-  "main": "jk-keyboard.js",
+  "main": "mobile_number_keyboard.js",
   "directories": {
-    "test": "test"
+    "my-test": "my-test"
   },
   "scripts": {
-    "test": "open test/index.html"
+    "my-test": "open my-test/index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerray/jk-keyboard.git"
+    "url": "https://github.com/znonzadmin/mobile_number_keyboards.git"
   },
   "keywords": [
     "html",
@@ -19,13 +19,13 @@
     "keyboard",
     "mobile"
   ],
-  "author": "Jerray Fu",
+  "author": "znonzadmin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jerray/jk-keyboard/issues"
+    "url": "https://github.com/znonzadmin/mobile_number_keyboards/issues"
   },
-  "homepage": "https://github.com/jerray/jk-keyboard#readme",
+  "homepage": "https://github.com/znonzadmin/mobile_number_keyboards/#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "Zepto": "^1.2.0"
   }
 }
